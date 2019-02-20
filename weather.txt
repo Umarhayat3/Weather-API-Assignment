@@ -1,0 +1,7 @@
+*********************************************************
+ City name = Nowshera
+ Temperature (in kelvin unit) = 284.15
+ atmospheric pressure (in hPa unit) = 1020
+ humidity (in percentage) = 87
+ description = moderate rain
+********************* NEXT ENTRY ************************
